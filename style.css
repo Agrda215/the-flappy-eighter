@@ -1,0 +1,21 @@
+.storke[font="Arial"] {
+  font-family: Arial;
+}
+
+.storke[font="Comic Sans MS"] {
+  font-family: Comic Sans MS;
+}
+
+.storke {
+  border-style: solid;
+  border-color: black;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.storke[width="480"][height="360"] {
+  width: 480px;
+  height: 360px;
+}

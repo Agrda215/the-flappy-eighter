@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Flappy</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1 class="storke" width="480" height="360" font="Arial">
+      <h2 style="left: 260px; top: 25px;" class="absolute">
+        <span style="font-family: Arial;" class="label" id="score">0</span>
+        <img
+          id="svg1"
+          style="width: 90px; height: 90px;"
+          src="Images/player.svg"
+          alt="SVG Paint | Player"
+        />
+        <img
+          id="svg2"
+          style="width: 90px; height: 90px;"
+          src="Images/square.svg"
+          alt="SVG Paint | Square"
+        />
+      </h2>
+    </h1>
+    <h1 class="buttons">
+      <button onclick="GetLeft()">Left</button>
+      <button onclick="GetRight()">Right</button>
+      <button onclick="GetUp()">Up</button>
+      <button onclick="GetDown()">Down</button>
+      <button onclick="resource()">Collect</button>
+      <button onclick="Reset()">Reset form x square</button>
+    </h1>
+  </body>
+</html>
+<script src="js/main.js"></script>

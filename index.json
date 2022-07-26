@@ -1,0 +1,12 @@
+{
+  "filesImages": ["./Images/player.svg", "./Images/square.svg"],
+  "title": "Flappy",
+  "fileImagesNumber": 2,
+  "modules": {
+    "type": "string",
+    "text": "Score Now..."
+  },
+  "vueAvaiable": false,
+  "svgTotalChars": 4763,
+  "key": null
+}

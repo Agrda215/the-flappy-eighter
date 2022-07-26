@@ -1,0 +1,4 @@
+module.getOutputedSVGType = () => {
+  let text = ["Player", "Square"]
+  return [text[0], text[1]]
+}

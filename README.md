@@ -1,2 +1,2 @@
-# the-flappy-eighter
-Created with CodeSandbox
+# Flappy
+### I THINK THAN FLAPPY TO JAVASCRIPT SO HERE.
